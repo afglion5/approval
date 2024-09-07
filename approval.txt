@@ -12,8 +12,5 @@ GM•OLD-10238DS10238
 10 Date remove 
 
 
-GM•AFG-10492DS10492
-remove 1 hour 
-
 GM•AFG-10381DS10381
 Date 8 remove 
